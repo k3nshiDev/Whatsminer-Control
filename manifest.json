@@ -1,0 +1,10 @@
+{
+    "domain": "whatsminer_control",
+    "name": "WhatsMiner Control",
+    "version": "1.0.0",
+    "codeowners": ["@k3nshiDev"],
+    "config_flow": true,
+    "iot_class": "local_polling",
+    "documentation": "https://github.com/k3nshiDev/WhatsMiner-Control",
+    "issue_tracker": "https://github.com/k3nshiDev/WhatsMiner-Control/issues"
+}
